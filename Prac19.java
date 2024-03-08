@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Prac19 {
   public static void main(String[] args) {
-    int sum;
+    int sum = 0;
     double avg1, avg2;
     
     Scanner input = new Scanner(System.in);
